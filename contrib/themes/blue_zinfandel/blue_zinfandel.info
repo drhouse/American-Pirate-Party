@@ -1,0 +1,22 @@
+name = Blue Zinfandel
+description = Simple two-column theme for blogs.
+screenshot = images/screenshot.png
+core = 6.x
+engine = phptemplate
+features[] = name
+features[] = slogan
+features[] = search
+features[] = favicon
+features[] = logo
+features[] = primary_links
+features[] = secondary_links
+stylesheets[all][] = style.css
+regions[left] = Left sidebar
+regions[footer] = Footer
+regions[content_top] = Content Top
+; Information added by drupal.org packaging script on 2009-06-08
+version = "6.x-1.1-beta1"
+core = "6.x"
+project = "blue_zinfandel"
+datestamp = "1244425207"
+
